@@ -2,4 +2,4 @@ build:
   id: 101101
   version: 10.2.3
   name: "Default-GIT-Production-Build"
-  type: "Development Build"
+  type: " GIT Default Build"
